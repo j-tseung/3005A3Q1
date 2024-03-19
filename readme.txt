@@ -22,7 +22,7 @@ This application connects to a PostgreSQL database to perform CRUD operations on
 
 ## Running the Application
 1. Install `psycopg2` using pip: `pip install psycopg2`.
-2. in /src, run `app.py` using Python: `python app.py`.
+2. In /src, run `app.py` using Python: `python app.py`.
 3. Use the menu options to interact with the database.
 
 ## Function Descriptions
