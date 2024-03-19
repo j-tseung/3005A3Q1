@@ -33,5 +33,8 @@ This application connects to a PostgreSQL database to perform CRUD operations on
 - `updateStudentEmail(student_id, new_email)`: Updates a student's email.
 - `deleteStudent(student_id)`: Deletes a student's record.
 
+##Notes
+- when 'updateStudentEmail' or 'deleteStudent' is given an invalid student ID, it will not update the table. 
+
 ## Demonstration Video
 https://youtu.be/1futAqOuDGc
