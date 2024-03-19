@@ -17,8 +17,10 @@ Project Directory Structure
 This application connects to a PostgreSQL database to perform CRUD operations on a `students` table, allowing for the management of student records.
 
 ## Setup
-1. Ensure PostgreSQL is installed and running on your machine.
-2. Create a database and execute the `setup.sql` script to create the `students` table and insert initial data.
+1. Download 3005A3Q1-main.
+2. Extract files. 
+3. Ensure PostgreSQL is installed and running on your machine.
+4. Create a database and execute the `setup.sql` script to create the `students` table and insert initial data.
 
 ## Running the Application
 1. Install `psycopg2` using pip: `pip install psycopg2`.
