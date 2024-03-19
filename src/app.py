@@ -1,4 +1,4 @@
-# /src/db.py
+# /src/app.py
 import psycopg2
 from db import connect_db
 
